@@ -53,7 +53,7 @@ function App() {
             <div className="absolute h-12 bg-gray-700 " style={{
               width: `${percentage}%`,
             }}>
-              <span className="absolute left-0 right-0 text-white text-lg font-bold text-center mt-2 ml-5">{percentage.toFixed(2)}%</span>
+              <span className="absolute left-0 right-0 text-white text-lg font-bold text-center mt-2 ml-5cls">{percentage.toFixed(2)}%</span>
             </div>
           </div>
           <div className="flex justify-between text-lg">
